@@ -27,6 +27,14 @@ body{
     display: inline-flex;
 }
 
+.display-4{
+    font-family: 'pacifico', cursive;
+    color: #04fe;
+}
+.some{
+    font-family: 'nova flat', cursive;
+    color: #334567;
+}
 .row .card{
     margin:20px;
     align-self: flex-end;
